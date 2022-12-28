@@ -27,7 +27,7 @@ I specialize in building robust UI components that give astonishing look to apps
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="70%">
 
 - 🔭 I’m currently working on my own portfolio.  
   
@@ -38,7 +38,7 @@ I specialize in building robust UI components that give astonishing look to apps
 - ⚡ Fun fact: Something I can improve about myself is my software knowledge, which is why I currently take technology courses during weekends.  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -70,23 +70,11 @@ I specialize in building robust UI components that give astonishing look to apps
 ## Github Stats  
 <table><tr><td valign="top" width="49%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZahidMdHussain&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
+![](https://github-readme-stats.vercel.app/api?username=ZahidMdHussain&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
+  
 </td><td valign="top" width="49%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidMdHussain&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZahidMdHussain&theme=gotham&hide_border=true)
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
