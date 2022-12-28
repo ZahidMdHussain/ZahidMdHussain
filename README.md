@@ -68,11 +68,11 @@ I specialize in building robust UI components that give astonishing look to apps
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="49%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZahidMdHussain&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="49%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidMdHussain&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
