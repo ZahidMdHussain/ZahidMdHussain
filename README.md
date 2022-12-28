@@ -90,6 +90,3 @@ I specialize in building robust UI components that give astonishing look to apps
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
