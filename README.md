@@ -1,6 +1,9 @@
 ## Hey 👋, I'm Md. Zahid Hussain!  
   
 
+<a href="https://portfolio-mdzahid.netlify.app/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/md-zahid-hussain-3811031b6" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -29,10 +32,10 @@ I specialize in building robust UI components that give astonishing look to apps
 ## Rapidfire  
 <table><tr><td valign="top" width="70%">
 
-- 🔭 I’m currently working on my own portfolio.  
+- 🔭 I’m currently looking for opportunity as Frontend Developer.  
   
 
-- 🌱 I’m currently learning ReactJs and TypeScript  
+- 🌱 I’m currently learning ReactJs, NextJS and TypeScript.
   
 
 - ⚡ Fun fact: Something I can improve about myself is my software knowledge, which is why I currently take technology courses during weekends.  
