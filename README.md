@@ -2,7 +2,7 @@
   
 
 <a href="https://portfolio-mdzahid.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/-PORTFOLIO%20-brightgreen?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-PORTFOLIO%20-brightgreen?&style=for-the-badge&logo=zig&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/md-zahid-hussain-3811031b6" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
