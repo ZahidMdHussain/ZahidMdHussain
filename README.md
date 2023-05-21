@@ -21,9 +21,17 @@
 
 
 ### Glad to see you here!  
-I’m a frontend developer who has turned years of freelancing into a full-time career. Being a frontend developer allows me to not only develop client-facing apps and websites but also develop optimized and cutting-edge UI.
+I am a dedicated and skilled UI Developer with experience in creating responsive web pages for multiple client projects. I have a strong focus on accessibility and have been involved in all aspects of the development lifecycle, from analysis and design to coding and debugging.
 
-I specialize in building robust UI components that give astonishing look to apps or websites. I love developing  UI components that are light yet powerful, distributed yet synchronized, and beautiful yet effective.   
+In my current role at Cognizant, I collaborate with cross-functional teams to ensure the design and APIs used to align with project requirements. I actively participate in project discussions and sprint planning, contributing valuable insights and ideas.
+
+Alongside my technical skills, I am proficient in project management tools such as Git, VS Code, Github, Bitbucket, Jira, and Confluence. These tools have contributed to efficient collaboration and streamlined workflows.
+
+I am well-versed in programming languages including ReactJS, JavaScript, HTML5, CSS, and My-SQL. I have expertise in utilizing frameworks and libraries such as Redux, Tailwind CSS, Bootstrap, Formik, Parcel, and React-router.
+
+I am passionate about creating user-friendly and visually appealing interfaces. I continuously seek to expand my knowledge and skills in the field of UI development, staying up-to-date with the latest trends and technologies.
+
+Feel free to connect with me to discuss opportunities, collaboration, or anything related to UI development and web technologies.  
   
 
 <br/>  
